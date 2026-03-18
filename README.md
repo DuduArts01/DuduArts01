@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Eduardo%20|%20Developer&fontSize=70&theme=dark" width="100%" />
+</p>
+
 # Olá, eu sou o Eduardo! 🕹️
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-medeiros-siqueira/())
